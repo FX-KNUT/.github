@@ -1,8 +1,8 @@
 ![f(x) logo](https://user-images.githubusercontent.com/56120315/156913052-53c8785c-6956-4928-b6d0-4420b5743fc3.png) <br/>
-# f(x)
+# <ul><li>&nbsp;&nbsp;f(x)</li></ul>
 <p align='center'><strong>Web Application Club from KNUT</strong><br/>
-2020년에 만들어진 웹 애플리케이션 동아리 f(x)입니다.<br/>
-함수를 의미하는 동시에, Frontend eXclusive의 줄임말인 f(x)을 동아리 이름으로 사용 중입니다.<br />
+2020년에 만들어진 한국교통대학교 웹 애플리케이션 동아리입니다.<br/>
+함수를 의미하는 동시에, 'Frontend eXclusive'의 줄임말인 f(x)을 동아리 이름으로 사용 중입니다.<br />
 현재 3대째 동아리로 운영 중입니다.
 <br />
 </p>
@@ -30,15 +30,30 @@
 
 <hr/>
 
+## About Us
+
++ 지역선도대학 단위 대회(공모전 등) 다수 출전 및 입상
++ 교내외 타 학과 학생들 및 전문가들과 함께 프로젝트 작업 교류 경험 존재
+  + DevOps, Engineer, PM(Product Manager), QA(Quality Assurancer), Designer 등
++ 동아리원들 간 풍부한 협업 문화 및 환경, 친목 조성
+  + Git, Trello, Slack, Jira 등의 적극적 사용
++ 비공식적으로 동아리 내에 현역 개발자 여러 명 상주 중
++ 웹 개발에 국한되지 않은 동아리
+  + 게임 개발자, Infrastructure 연구생 등 다분야 학생 소속으로 스펙트럼 확보
++ 정기적·비정기적 프로젝트 공식적·자발적 생성 및 진행
+
+<hr/>
+
 ## Contact
 
 | Pages | Site |
 | ------ | ------ |
 | KNUT | https://www.ut.ac.kr/kor.do |
 | KNUT, Dept of Software | https://www.ut.ac.kr/ceit/sub03_00.do |
-| Contact Email | fx.knut.gmail.com |
+| Contact Our Club | fx.knut.gmail.com |
 
 You can also send an email or Kakaotalk below to make a counsel.
+
 <pre>
 Email: spinburgjexer@gmail.com
 Kakaotalk ID: rker
