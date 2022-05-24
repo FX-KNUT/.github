@@ -1,12 +1,12 @@
-![f(x) logo](https://user-images.githubusercontent.com/56120315/156913052-53c8785c-6956-4928-b6d0-4420b5743fc3.png) <br/>
-# <ul><li>&nbsp;&nbsp;f(x)</li></ul>
+<!-- ![f(x) logo](https://user-images.githubusercontent.com/56120315/156913052-53c8785c-6956-4928-b6d0-4420b5743fc3.png) <br/> -->
+<!-- # <ul><li>&nbsp;&nbsp;f(x)</li></ul> -->
 <p align='center'><strong>Web Application Club from KNUT</strong><br/>
 2020년에 만들어진 한국교통대학교 웹 애플리케이션 동아리입니다.<br/>
 함수를 의미하는 동시에, 'Frontend eXclusive'의 줄임말인 f(x)을 동아리 이름으로 사용 중입니다.<br />
-현재 3대째 동아리로 운영 중입니다.
+
 <br />
 </p>
-
+<!-- 
 | Name | Belonging | Subscription Year | Grade | Note |
 | ------ | ------ | ------ | ------ | ------ |
 | 光 | 한국교통대학교 충주캠퍼스 소프트웨어학과 | _ | _ | 전담 교수님 |
@@ -27,7 +27,7 @@
 | 김하람 | 한국교통대학교 충주캠퍼스 소프트웨어학과 2126025 | 3대 | Sophomore |  |
 | 손예빈 | 한국교통대학교 충주캠퍼스 소프트웨어학과 2126033 | 3대 | Sophomore |  |
 | _ | 외 5명을 포함, 총 22인(교수님 미포함)이 소속되어 있습니다.
-
+ -->
 <hr/>
 
 ## About Us
